@@ -62,7 +62,7 @@ let fastAndFuriousFilms = [
 ]
 
 let movies = [
-    "Star Wars": starWarsFilms,
+    "Star Wars": starWarsFilms, 
     "Fast & Furious": fastAndFuriousFilms,
     "Toy Story": toyStoryFilms,
 ]
